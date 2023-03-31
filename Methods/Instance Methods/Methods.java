@@ -14,6 +14,7 @@ class Person {
     }
     // Accessor methods to read data
     public String getname ()
+    
     {
         return name;
     }
